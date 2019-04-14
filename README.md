@@ -19,3 +19,5 @@ After the emails are pre-processed, the program extracts features from the email
 After training on a dataset from the SpamAssasin Public Corpus, the classifier detects 
 ### 98.5% 
 of spam emails correctly.
+
+Course base on Stanford's Machine Learning Course.
